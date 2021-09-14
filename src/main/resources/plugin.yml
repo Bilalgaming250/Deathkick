@@ -1,0 +1,5 @@
+name: Deathkick
+version: '${project.version}'
+main: me.bilalgaming.deathkick.Deathkick
+api-version: 1.17
+author: Bilalgaming
